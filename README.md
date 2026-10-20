@@ -1,6 +1,6 @@
 ### Hi, I'm Mukhammed 👋
 
-I work where technology meets the customer. I'm a Computer Science senior at Indiana University of Pennsylvania (Business minor). I sell a technical service to auto dealerships and tire shops, and I build software for the kind of small businesses I sell to.
+I work where technology meets the customer. I'm a Computer Science senior at Indiana University of Pennsylvania (Business minor). I sell a technical service to shops, and I build software for the kind of small businesses I sell to.
 
 I'm looking for **Solutions Engineer, Technical Account Manager and Implementation** roles. Available full-time now, open to relocation · Pittsburgh, PA
 
@@ -14,6 +14,6 @@ I'm looking for **Solutions Engineer, Technical Account Manager and Implementati
 
 **Toolbox:** Python · JavaScript · Java · SQL · REST APIs & webhooks · Flask · Git · PyTorch / Hugging Face · product demos & discovery calls
 
-**Also:** Toastmasters speaker · founder of a Computer Club, co-founder of an AI Club · I teach Brazilian Jiu-Jitsu and Judo · English, Russian, Kyrgyz, Uzbek
+**Also:** Toastmasters speaker · English, Russian, Kyrgyz, Uzbek
 
 📫 [LinkedIn](https://www.linkedin.com/in/mukhammed-mamatysaev-1a5b79287/) · [Portfolio](https://tairovpro.github.io) · mm011@iup.edu
